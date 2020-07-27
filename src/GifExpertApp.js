@@ -6,7 +6,6 @@ const GifExpertApp = (props) => {
 
   // const categories = ['Dark', 'Black Mirror', 'The OA']
   const [categories, setCategories] = useState(['Dark']);
-  console.log(categories);
   return (
     <>
       <h2> GifExpertApp </h2>
