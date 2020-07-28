@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import { AddCategory } from './components/AddCategory';
 import { GifGrid } from './components/GifGrid';
+import 'animate.css';
 
 const GifExpertApp = (props) => {
 
